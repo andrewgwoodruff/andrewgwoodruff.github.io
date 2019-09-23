@@ -1,0 +1,12 @@
+p {
+	color: blue;
+}
+
+.page-header {
+	border-style: dotted;
+	border-width: 5px;
+}
+
+#h4 {
+	font-family: "Impact", Charcoal, sans-serif;
+}
